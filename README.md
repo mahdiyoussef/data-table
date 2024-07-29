@@ -276,6 +276,7 @@ function App() {
 
 This example demonstrates how to use the DataTable component with filtering and status fields, providing a practical use case for user management.
 
+this picture demonstrates a case of Logistic App.
 ![image](https://github.com/user-attachments/assets/f0db3e18-f086-4bb5-a09c-33fc59ccfbff)
 
 ```
